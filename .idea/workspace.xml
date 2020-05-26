@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d89d4c8e-d32d-44cd-acc5-519d9e1e4fa8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +26,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Pipfile" value="1" />
-          <entry key="Procfile" value="1" />
+          <entry key="Pipfile" value="2" />
+          <entry key="Procfile" value="2" />
           <entry key="css" value="1" />
           <entry key="html" value="14" />
-          <entry key="lock" value="1" />
+          <entry key="lock" value="2" />
           <entry key="py" value="17" />
         </counts>
       </usages-collector>
@@ -39,8 +38,9 @@
         <counts>
           <entry key="CSS" value="1" />
           <entry key="HTML" value="14" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Python" value="17" />
+          <entry key="TOML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,7 +48,7 @@
           <entry key="Procfile" value="12" />
           <entry key="css" value="159" />
           <entry key="html" value="1615" />
-          <entry key="py" value="3050" />
+          <entry key="py" value="3327" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -56,22 +56,13 @@
           <entry key="CSS" value="159" />
           <entry key="HTML" value="1615" />
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="3050" />
+          <entry key="Python" value="3327" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/blog/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_project/urls.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -128,21 +119,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#53#0" expanded="true" />
-                <marker date="1590386942115" expanded="true" signature="222:277" ph="..." />
-                <marker date="1590386942115" expanded="true" signature="312:317" ph="..." />
-                <marker date="1590386942115" expanded="true" signature="404:409" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -157,10 +133,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="126" column="80" selection-start-line="126" selection-start-column="80" selection-end-line="126" selection-end-column="80" />
+            <state relative-caret-position="352">
+              <caret line="125" column="73" selection-start-line="125" selection-start-column="73" selection-end-line="125" selection-end-column="73" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipfile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -325,19 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
@@ -475,10 +457,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blog_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="126" column="80" selection-start-line="126" selection-start-column="80" selection-end-line="126" selection-end-column="80" />
+        <state relative-caret-position="352">
+          <caret line="125" column="73" selection-start-line="125" selection-start-column="73" selection-end-line="125" selection-end-column="73" />
         </state>
       </provider>
     </entry>
